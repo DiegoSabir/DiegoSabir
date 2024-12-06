@@ -1,39 +1,42 @@
 <h1 align="center">Hi there👋, I'm Diego</h1>
-<h3 align="center">a junior developer</h3>
+<h3 align="center">A Junior Developer</h3>
 
-<div>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img align="right" width="400" alt="Illustration of Shimarin" src="https://i.imgur.com/aNBi8Jf.png" />
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
-
-<h2>About me</h2>
-  
-- ⭐ currently open to work
-- 🗣️ Languages 🇧🇷 🇪🇸 🇺🇸 🇯🇵
-- 📨 Reach me at diegoribas59@gmail.com
-  
-<h2>Current Skills</h2>
-  
-- <h4>Languages</h4>
-  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-  
-  - <h5>Learning</h5>
-    <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
-    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
-  
-- <h4>Frameworks & Libraries</h4>
-  <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
-  <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
-  <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
-  <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
-    
-  </br></br>
-  
-<div align="right">
-
+  <div>
+    <h2>About Me</h2>
+    <ul>
+      <li>⭐ Currently open to work</li>
+      <li>🗣️ Languages: 🇧🇷 Portuguese, 🇪🇸 Spanish, 🇺🇸 English, 🇯🇵 Japanese</li>
+      <li>📨 Reach me at: <a href="mailto:diegoribas59@gmail.com">diegoribas59@gmail.com</a></li>
+    </ul>
   </div>
 </div>
 
-------
+<h2>Current Skills</h2>
+
+<h3>📕 Programming Languages</h3>
+<div>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+<h3>📖 Currently Learning</h3>
+<div>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</div>
+
+<h3>📚 Frameworks</h3>
+<div>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+</div>
+
+<h3>💾 Databases</h3>
+<div>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
+</div>
