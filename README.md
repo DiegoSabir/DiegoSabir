@@ -2,7 +2,7 @@
 <h3 align="center">A Junior Developer</h3>
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img align="right" width="400" alt="Illustration of Shimarin" src="https://i.imgur.com/aNBi8Jf.png" />
+  <img align="right" width="400" alt="background" src="background.png" />
 
   <div>
     <h2>About Me</h2>
